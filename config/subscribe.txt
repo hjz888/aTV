@@ -28,7 +28,6 @@ https://cnb.cool/junchao.tang/llive/-/git/raw/main/咪咕直播
 https://web.banye.tech:7777/tvbus/yogurtTv.txt
 http://211.154.28.50:5898/2025.txt
 http://gg.7749.org/z/0/dzh.txt
-http://api.mytv666.top/lives/free.php?type=txt
 https://iptv.catvod.com/tv.m3u
 https://gh.tryxd.cn/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://xn--pggp-rp5imh.v.nxog.top/m//tv/
