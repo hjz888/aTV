@@ -307,4 +307,4 @@ docker run -d -p 8000:8000 guovern/iptv-api
 
 ## 许可证
 
-[MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://github.com/alantang1977)
+[MIT](./LICENSE) License &copy; 2024-PRESENT [Alan](https://github.com/alantang1977)
