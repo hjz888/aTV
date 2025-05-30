@@ -1,6 +1,11 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+
+https://gitee.com/hot-song-and-hot-dance_0/live-streaming---tv.txt-direct/raw/master/m3u2.txt
+https://gitee.com/wu-xuewei520/private/raw/master/JS/长苏影视.txt
+https://d.h6room.com/frjzb.txt
+https://igdux.top/wKdr
 http://1.94.31.214/live/livelite.txt
 http://is.is-great.org/ii/1748304438.txt
 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737651956313/tptv.m3u
