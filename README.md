@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./static/images/2120.png" alt="logo"/>
+  <img src="https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Image320.png" alt="logo"/>
   <h1 align="center">aTV IPTV直播源</h1>
 </div>
 
