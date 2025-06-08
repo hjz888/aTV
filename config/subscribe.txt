@@ -1,7 +1,28 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
+http://go8.myartsonline.com/zx/0/iptv.txt
+http://wx.thego.cn/df.txt
+http://wx.thego.cn/backup.m3u
+https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
+https://smart.pendy.dpdns.org/m3u/Smart.m3u
+https://smart.pendy.dpdns.org/m3u/iptv-gongyi.m3u
+https://gh.tryxd.cn/https://raw.githubusercontent.com/lbxxxtw2/clash/refs/heads/main/new.txt
+https://yun.urldwz.com/f/Q6y3ca/migu.m3u
+https://cccimg.com/down.php/bff36da26c7fa82e6943f3f55014cb80.txt
+http://ys.my.to/i/?T=ydyw
+http://smt.iktv.ddns-ip.net/Smart.php
+https://fel.forxhr.top:2022/down.php/ffd769867d9207f9641336d45d2277f2.全球txt
+https://mpimg.cn/down.php/1cc967ebb95af61e470206f557c6d0f3.txt
+https://smt.iktv.ddns-ip.net/Smart.php
+https://cnb.cool/junchao.tang/llive/-/git/raw/main/myTV.txt
+https://live.kakaxi-1.ink/ipv4.txt
+https://live.kakaxi-1.ink/ipv4.1.txt
+https://git.acwing.com/cisenyuan/kdsb/-/raw/main/txt/tvzb.txt
+http://iptv.diyp.site/diyp.php
+http://is.is-great.org//ii/1748786018.txt
+https://gh.tryxd.cn/https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/结果.m3u
+http://47.120.41.246:8899/zb.txt
 https://gitee.com/hot-song-and-hot-dance_0/live-streaming---tv.txt-direct/raw/master/m3u2.txt
 https://gitee.com/wu-xuewei520/private/raw/master/JS/长苏影视.txt
 https://d.h6room.com/frjzb.txt
