@@ -38,7 +38,7 @@
       "key": "py_rou",
       "name": "(翻墙)(18+)Rou(T3)",
       "type": 3,
-      "api": "https://d.kstore.dev/download/14756/python/vod_rou.py",
+      "api": "https://raw.githubusercontent.com/hjz888/aTV/refs/heads/master/vod_rou.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
