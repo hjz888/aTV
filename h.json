@@ -61,14 +61,19 @@
     }
     ,
     {
-      "key": "py_beesport",
-      "name": "beesport",
+  ]
+      ,
+  "lives": [
+    {
+      "name": "LITV直播(python)",
       "type": 3,
       "api": "https://raw.githubusercontent.com/hjz888/aTV/refs/heads/master/live_beesport.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
+      "ext": {
+        "proxy": {
+            "http": "http://127.0.0.1:10809",
+            "https": "http://127.0.0.1:10809"
+        }
+      }
     }
   ]
 }
