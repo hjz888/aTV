@@ -59,5 +59,16 @@
         "ratio": 1.5
     }
     }
+    ,
+    {
+      "key": "py_beesport",
+      "name": "beesport",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/hjz888/aTV/refs/heads/master/live_beesport.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    }
   ]
 }
