@@ -21,5 +21,17 @@
       "filterable": 0,
       "changeable": 0
     }
+    ,
+    {
+      "key": "py_BadNews",
+      "name": "BadNews(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=BadNews",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {"type": "rect", "ratio": 1.5}
+    }
   ]
 }
