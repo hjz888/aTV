@@ -33,5 +33,16 @@
       "changeable": 0,
       "style": {"type": "rect", "ratio": 1.5}
     }
+    ,
+    {
+      "key": "py_rou",
+      "name": "(翻墙)(18+)Rou(T3)",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/14756/python/vod_rou.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    }
   ]
 }
