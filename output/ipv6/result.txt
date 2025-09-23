@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-23 06:27:32,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php
+2025-09-23 18:29:03,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php
 
 🍄┃广东频道,#genre#
 广州综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php
@@ -2277,7 +2277,6 @@ PopC,https://iptv.mydiver.eu.org/live/encrypted/ZjQ0YmU5ZTM5M2IxYjUzYTRkODQ2Yjlk
 J2,http://j.s.bkpcp.top/jj/2j
 J2,http://php.jdshipin.com:8880/smt.php
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php
-J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 明珠台,http://j.s.bkpcp.top/jj/zzt
 明珠台,http://tl.061833.xyz/tl/null-12
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
@@ -2407,7 +2406,6 @@ TVB星河,http://tl.061833.xyz/tl/null-7
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 千禧经典台,http://php.jdshipin.com:8880/xsj.php?id=tvb-classic
-千禧经典台,http://php.jdshipin.com:8880/xsj.php
 712WARNERTV,https://hls-gateway.vpstv.net/streams/708986.m3u8
 AMC電影台,http://j.s.bkpcp.top/jj/amcdyt
 AMC電影台,https://tv.iill.top/litv/4gtv-4gtv017
@@ -2487,7 +2485,6 @@ Hoy 78,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 Viutv,https://smart.pendy.dpdns.org/Smart.php?id=itv2_antik
 Viutv,http://free.cnlive.club/channel/n10ba00db.m3u8
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php
-Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-6.ctv
 三立台湾,http://free.cnlive.club/channel/642f20a/index.m3u8?q=1752629214236
@@ -2497,6 +2494,7 @@ Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 三立台湾,http://php.946985.xyz/stv.php?id=sanlitaiwan
 三立台湾,http://live.catvod.com/smart.php?id=sanlitaiwan
 三立台湾,http://pullpackage.alivecdn.com/live/HNF1G6VXjmo2R9K8b2IWZ4pXKUKuJhO5vUHuNYiG1ISnPGPCuq.flv
+三立台湾,https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
@@ -3145,7 +3143,7 @@ NBTV-4,http://[2409:8087:2801:22:100::1b]/wh7f454c46tw1794365255_149904061/hwltc
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-5.m3u8
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8zzhed;http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
-衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.m3u8
+衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
@@ -3177,7 +3175,7 @@ NBTV-4,http://[2409:8087:2801:22:100::1b]/wh7f454c46tw1794365255_149904061/hwltc
 苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8;http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
 苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
 苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-6.m3u8
-苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-2.m3u8
+苍南新闻综合,https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-3.m3u8
 舟山公共生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/1/index.m3u8?fmt=ts2hls#http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=2027429366-f4515e585a0347f780a01c73ae293945-0-b3699e931cf04290680745e989c63d86#http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=1731130201-a2fc060b90ff4f4988ae4a352840ef1b-0-198f4b8d2965de929ac120e526d12590
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
@@ -3220,7 +3218,6 @@ NBTV-4,http://[2409:8087:2801:22:100::1b]/wh7f454c46tw1794365255_149904061/hwltc
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed&quot;#http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed,
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed"
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-3.m3u8
-永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-1.m3u8
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
@@ -3448,6 +3445,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 七彩戏剧,http://[2409:8087:5e00:24::29]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 七彩戏剧,http://php.jdshipin.com/itv6s.php
 七彩戏剧,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&Ace
+七彩戏剧,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116
 上海外语,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226201/index.m3u8
 上海外语,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000001/index.m3u8
 上海外语,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000001/index.m3u8
@@ -3459,6 +3457,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 上海外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 上海外语,http://z.b.bkpcp.top/m.php
 上海外语,https://live.lalifeier.eu.org/kankanews/shics.m3u8
+上海外语,https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1746307365&key=5923d8473fb7e7c254f421fd5c26ed51
 上海教育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 上海教育,http://miqlin.cyou:8888/udp/233.18.204.63:5140
 上海教育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8
@@ -3629,7 +3628,8 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 法治天地,http://z.b.bkpcp.top/m.php
 法治天地,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
 法治天地,https://cc06.tv12.xyz/42.m3u8
-法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
+法治天地,http://php.jdshipin.com:8880/itv6.php
+法治天地,http://z.b.bkpcp.top/m.php?id=fztd
 生活时尚,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226358/index.m3u8
 生活时尚,http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000006/index.m3u8
 生活时尚,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000006/index.m3u8
@@ -3742,16 +3742,19 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 CHC高清电影,http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8
 CHC高清电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
+CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 淘剧场,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
 淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
 淘剧场,http://[2409:8087:8:21::0b]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
 淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
+淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘娱乐,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
 淘娱乐,http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
 淘娱乐,http://[2409:8087:8:21::0b]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
 淘娱乐,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887499.m3u8
+淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘电影,http://[2409:8087:8:21::02]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
 淘电影,http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8
@@ -3833,10 +3836,10 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 天映经典,https://migu.188766.xyz/
 天映经典,https://cdn9.163189.xyz/smt1.1.php
 天映经典,http://free.cnlive.club/channel/n7e49c99a/index.m3u8
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 无线星河,http://php.jdshipin.com/smt.php
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php
 无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
@@ -3874,6 +3877,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 东森洋片,http://free.cnlive.club/channel/7cb8b9f4/index.m3u8
+东森洋片,http://free.cnlive.club/channel/n7160b4/index.m3u8?q=1752629214236
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.ctv
@@ -4369,6 +4373,7 @@ CCTV-5+,http://livetv.wqwqwq.sbs/itv/1000000005000265016.m3u8
 JJ斗地主,https://live.laobaitv.net/huya/jjworld
 JJ斗地主,https://live.iill.top/huya/14079954
 JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954
+JJ斗地主,https://live.iill.top/douyin/685317364746
 
 📚┃动画频道,#genre#
 卡酷动画,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
@@ -4399,6 +4404,7 @@ JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954
 青春动漫,https://live.v1.mk/api/bestv.php
 青春动漫,http://lml1971.cn:35455/bst/qcdmvcc4m@4000000.m3u8
 青春动漫,https://mursor.ottiptv.cc/bst/qcdmvcc4m@4000000.m3u8
+青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 爱动漫,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
 爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
@@ -4562,7 +4568,6 @@ CCTV-15,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 音乐之声,https://fanmingming.com/fm
 音乐之声,http://ls.qingting.fm/live/1260/64k.m3u8
 音乐之声,https://radio.0472.org/
-音乐之声,https://radio.0472.org/?id=641
 音乐广播,https://tv-1.iill.top/fm/552
 
 🏛┃经典剧场,#genre#
@@ -4605,8 +4610,10 @@ CCTV-15,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 鹿鼎记,https://live.iill.top/huya.php?id=23865080
 鹿鼎记,http://live.iill.top/yy.php
 鹿鼎记,https://mursor.ottiptv.cc/yy/1460463356
+鹿鼎记,http://live.iill.top/yy.php?id=1382704650
 仙剑奇侠传,https://live.metshop.top/yy/1382749903
 仙剑奇侠传,http://live.iill.top/yy.php
+仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 西游记,https://judy.livednow.dpdns.org/yy/8953746#http://43.138.170.29:35455/douyu/8953746
 西游记,http://lunbo.061899.xyz/huya/29465859
 三国演义,https://live.iill.top/huya/11602081
@@ -4620,6 +4627,7 @@ CCTV-15,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 三国演义,http://live.iill.top/yy.php
 三国演义,https://www.goodiptv.club/yy/32788000
 三国演义,http://tv123.top:35455/huya/11602081
+三国演义,http://live.iill.top/yy.php?id=1354936241
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
 新白娘子传奇,https://judy.livednow.dpdns.org/yy/1354490667
@@ -4631,10 +4639,12 @@ CCTV-15,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 新白娘子传奇,https://live.metshop.top/huya/26355768
 新白娘子传奇,http://live.iill.top/yy.php
 新白娘子传奇,https://www.goodiptv.club/yy/1354490667
+新白娘子传奇,http://live.iill.top/yy.php?id=1354490667
 济公游记,https://judy.livednow.dpdns.org/yy/1355265814
 济公游记,https://judy.livednow.dpdns.org/yy/1355265814#http://43.138.170.29:35455/yy/1355265814
 济公游记,http://live.iill.top/yy.php
 济公游记,https://www.goodiptv.club/yy/1355265814
+济公游记,http://live.iill.top/yy.php?id=1355265814
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 封神榜,https://judy.livednow.dpdns.org/yy/1356043643
 封神榜,http://luobo.bkpcp.top/yy/1353426319
@@ -4658,6 +4668,7 @@ CCTV-15,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 上海滩,https://judy.livednow.dpdns.org/yy/1382745184#http://58.39.190.143:35455/yy/1382745184
 上海滩,http://jsmov2.a.yximgs.com/bs3/video-hls/5249789878426449116_hlsb.m3u8
 上海滩,http://live.iill.top/yy.php
+上海滩,http://live.iill.top/yy.php?id=1382745184
 射雕英雄传,https://judy.livednow.dpdns.org/yy/1354210357
 射雕英雄传,http://www.52sw.top:678/play/huya.php?id=23824164
 射雕英雄传,https://live.metshop.top/yy/40959929
@@ -4665,3 +4676,4 @@ CCTV-15,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 射雕英雄传,http://tv.666150.xyz/huya.php?id=23824164
 射雕英雄传,https://live.iill.top/huya/23824164
 射雕英雄传,http://live.iill.top/yy.php
+射雕英雄传,http://live.iill.top/yy.php?id=1354210357
